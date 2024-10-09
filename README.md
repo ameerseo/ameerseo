@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AMEER HAMZA.
-- 👀 I’m interested in Data, Data, Data & Coding.
+- 👀 I’m interested in Data, Data, & Data.
 - 🌱 I’m currently learning Data Engineering and Machine learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ameeruk97@gmail.com

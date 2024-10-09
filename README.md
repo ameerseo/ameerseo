@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ameerseo
+- 👋 Hi, I’m AMEER HAMZA.
 - 👀 I’m interested in Data, Data, Data & Coding.
 - 🌱 I’m currently learning Data Engineering and Machine learning.
 - 💞️ I’m looking to collaborate on ...
